@@ -62,6 +62,7 @@ Skills
 ======
 * Human languages: French (native); English, Portuguese (fluent); Italian, Finnish (intermediate)
 * Computational Languages: Julia, Python, C, C++, Fortran
+* Platform: GitHub
 * Software: Wolfram Mathematica
 * Cosmological Codes: CLASS, MontePython, GetDist, PyCS3
 

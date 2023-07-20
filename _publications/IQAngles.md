@@ -2,7 +2,7 @@
 title: "8\\. Quantum description of angles in the plane"
 collection: publications
 #permalink: /publication/IQAngles.md
-excerpt: 'First integral affine quantisation of a modified gravity theory.'
+excerpt: 'Quantum entanglement and spin one-half coherent states in integral quantisation.'
 date: 2021-11-22
 venue: 'Acta Polytechnica'
 paperurl: 'https://doi.org/10.14311/AP.2022.62.0008'

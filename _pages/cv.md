@@ -26,7 +26,7 @@ Professional experience
 ======
 * Visiting researcher
   * Institute of Cosmology and Gravitation (ICG), United Kingdom, 7 June 2022 to 24 June 2022
-* Visiting researcher
+* Postdoc researcher
   * Helsinki Institute of Physics (HIP), Finland, 1 January 2021, ongoing
 * Visiting researcher
   * Brazilian Centre for Research in Physics (CBPF), Brazil, 1 August 2019 to 31 August 2020
@@ -61,8 +61,8 @@ Scientific Responsibilities
 Skills
 ======
 * Human languages: French (native); English, Portuguese (fluent); Italian, Finnish (intermediate)
-* Computational Languages: Julia, Python, C, C++, Fortran
-* Platform: GitHub
+* Computational Languages: C, C++, Python, Julia, Fortran
+* Version Control: GitHub
 * Software: Wolfram Mathematica
 * Cosmological Codes: CLASS, MontePython, GetDist, PyCS3
 

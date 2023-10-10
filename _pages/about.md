@@ -17,6 +17,12 @@ Hi! Welcome to my page! My site is still under construction, but you can still f
 
 
 
+About my academic background
+======
+
+In 2009, I realise astrophysics is what makes me vibe and decide to enroll in the physics course of the nearest university (Lille 1). I learn about the different academic career paths and, after a conversation with the instructor of my statistical physics course, I apply to enroll to the Paris Observatory (Paris-Meudon, in fact, they insist about it!), and go there to attend an. I successfully pass the interview to my big surprise, which remains one of the 
+
+
 A reminder to myself about how I got into cosmology
 ======
 

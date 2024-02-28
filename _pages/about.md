@@ -15,7 +15,12 @@ text-align: justify}
 
 Hi! Welcome to my page! My site is still under construction, but you can still find the most important information about me. 
 
+Start of my second postdoc!
+======
 
+![New postdoc at UWO, 2024](/images/AtFrancescas.jpeg)
+
+I just started a new postdoc position at the University of Western Ontario! After the last three years in Finland, I continue doing exciting research in a nordic environment. What's the theme this time? Well, I will keep developing tools to understand the very early Universe, but this time in a context new to me! As part of Francesca Vidotto's group, bouncing cosmology in the context of Loop Quantum Cosmology is going to be the centre of my attention. A couple of new projects initiated with Francesca involve gravitational waves, parity violation, and connections with observations! And all of that topped with excellent feline company. I couldn't ask for more, right?
 
 {% comment %}About my academic background
 ======

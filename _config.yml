@@ -83,13 +83,13 @@ analytics:
 # Site Author
 author:
   name             : "Emmanuel Frion"
-  avatar           : "profil.jpg"
+  avatar           : "Profil2.jpg"
   bio              : "Theoretical physicist"
-  location         : "Helsinki, Finland"
-  employer         :
+  location         : "London, Ontario, Canada"
+  employer         : "University of Western Ontario"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=FjymIDoAAAAJ&hl=fi&oi=sra"
-  email            : "frion.emmanuel@hotmail.fr"
+  email            : "efrion@uwo.ca"
   researchgate     :  "https://www.researchgate.net/profile/Emmanuel-Frion"
   uri              :
   bitbucket        :

@@ -1,12 +1,12 @@
 ---
-title: "9\\. Bayesian analysis of Unified Dark Matter models with fast transition: can they alleviate the $$H_0$$ tension? "
+title: "9\\. Bayesian analysis of a Unified Dark Matter model with transition: can it alleviate the $$H_0$$ tension? "
 collection: publications
 #permalink: /publication/UDM.md
-excerpt: 'CMB and SN data prefer UDM models with slow transition. Can alleviate the Hubble tension.'
+excerpt: 'CMB and SN data prefer UDM models with slow transition. Mildly alleviates the Hubble tension.'
 date: 2023-07-12
-venue: ''
-paperurl: ''
-citation: 'Emmanuel Frion, David Camarena, Leonardo Giani, Tays Miranda, Daniele Bertacca, Valerio Marra, Oliver F. Piattella. &quot;Bayesian analysis of Unified Dark Matter models with fast transition: can they alleviate the $H_0$ tension?&quot; <i></i>'
+venue: 'Open Journal of Astrophysics'
+paperurl: 'https://doi.org/10.21105/astro.2307.06320'
+citation: 'Emmanuel Frion, David Camarena, Leonardo Giani, Tays Miranda, Daniele Bertacca, Valerio Marra, Oliver F. Piattella. &quot;Bayesian analysis of a Unified Dark Matter model with transition: can it alleviate the $H_0$ tension?&quot; <i></i>'
 ---
 
 <style>

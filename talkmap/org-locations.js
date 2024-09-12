@@ -10,14 +10,24 @@ var addressPoints = [
     -1.404189
   ],
   [
+    "London, Canada",
+    42.9832406,
+    -81.243372
+  ],
+  [
     "Paris, France",
     48.8534951,
     2.3483915
   ],
   [
+    "Madrid, Spain",
+    40.4167047,
+    -3.7035825
+  ],
+  [
     "Portsmouth, United Kingdom",
-    50.8036831,
-    -1.075614
+    50.800031,
+    -1.0906023
   ],
   [
     "Urbana, Illinois, USA",
@@ -40,9 +50,14 @@ var addressPoints = [
     -40.3376682
   ],
   [
+    "Fort Lauderdale, USA",
+    26.1223084,
+    -80.1433786
+  ],
+  [
     "Warsaw, Poland",
-    52.2319581,
-    21.0067249
+    52.2337172,
+    21.071432235636493
   ],
   [
     "Nottingham, United Kingdom",

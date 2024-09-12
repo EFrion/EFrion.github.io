@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A little bit of history about me"
+title: "Welcome to my page!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,7 +13,7 @@ body {
 text-align: justify}
 </style>
 
-Hi! Welcome to my page! My site is still under construction, but you can still find the most important information about me. 
+Hello there! I am a theorerical physicist fascinated by the Universe on every scale, trying to understand the origins of large-scale structures and of their magnetic fields, the nature of dark energy, and the role of quantum effects in the very early Universe.
 
 Start of my second postdoc!
 ======
@@ -28,7 +28,7 @@ I just started a new postdoc position at the University of Western Ontario! Afte
 In 2009, I realise astrophysics is what makes me vibe and decide to enroll in the physics course of the nearest university (Lille 1). I learn about the different academic career paths and, after a conversation with the instructor of my statistical physics course, I apply to enroll to the Paris Observatory (Paris-Meudon, in fact, they insist about it!), and go there to attend an. I successfully pass the interview to my big surprise, which remains one of the 
 {% endcomment %}
 
-A reminder to myself about how I got into cosmology
+A reminder to myself about how I got interested into cosmology
 ======
 
 I come from a small village in the North of France in which the number of inhabitants is less than the number of cows. A very small, outlaying village, in which contact with nature is perpetual. The days were full of animals to discover, the nights full of bright stars. My dad was the first person to talk to me about stars. About how they form, how they die, how what we see in the sky might already be gone... He was always so proud when he talked about Einstein's theory of relativity! He was no expert, but he always felt such a strong fascination about what nature has to offer. His fascination for the world was a gift he passed on to me. He and my mom always gave me their support, which helped me overcome the many barriers I encountered until I became the first academic of the family. I know you are proud of me, mom, dad, but I am so much more proud of you both. I love you very dearly, mom. I miss you so much, dad. Thank you both for everything.

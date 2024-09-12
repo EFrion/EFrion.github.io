@@ -24,24 +24,32 @@ Education
 
 Professional experience
 ======
-* Visiting researcher
-  * Institute of Cosmology and Gravitation (ICG), United Kingdom, 7 June 2022 to 24 June 2022
-* Postdoc researcher
-  * Helsinki Institute of Physics (HIP), Finland, 1 January 2021, ongoing
-* Visiting researcher
-  * Brazilian Centre for Research in Physics (CBPF), Brazil, 1 August 2019 to 31 August 2020
-* Visiting researcher
-  * Institute of Cosmology and Gravitation (ICG), United Kingdom, 1 August 2018 to 31 July 2019
-* Summer 2014: Research Assistant
+* Postdoctoral researcher (1 January 2024 - ongoing)
+  * University of Western Ontario (UWO), Canada
+* Postdoctoral researcher (1 January 2021 - 31 December 2023)
+  * Helsinki Institute of Physics (HIP), Finland
+* Visiting researcher (1 August 2019 - 31 August 2020)
+  * Brazilian Centre for Research in Physics (CBPF), Brazil
+* Visiting researcher (1 August 2018 - 31 July 2019
+  * Institute of Cosmology and Gravitation (ICG), United Kingdom
+* Research Assistant (July 2014 - August 2014)
   * Laboratoire d'Annecy-le-Vieux de Physique des Particules (LAPP), France
   * Theme: <i>Study of angular distribution of gauge dibosons final products decaying at $$\sqrt{s}=13$$ TeV in the ATLAS experiment</i>
   * Supervisor: <i>Lucia di Ciaccio</i>
-
-* Spring 2014: Research Assistant
+* Research Assistant (May 2014 - June 2014)
   * Laboratoire Univers et Théories (LUTh), Paris-Meudon Observatory, France
   * Theme: <i>Modelisation of blazars emission spectra with a lepto-hadronic code</i>
   * Supervisor: <i>Andreas Zech</i>
   
+
+Mentoring
+======
+* Supervision
+  * Nika Gashimi, fourth-year undergrad (Since May 2024)
+* Co-supervision
+  * Mateo Pascual, PhD candidate at UWO (Since January 2024)
+  * Marcus Bomfim, PhD candidate at CBPF (Since May 2022)
+
 Awards and fellowships
 ======
 * Visiting researcher stipend
@@ -49,27 +57,40 @@ Awards and fellowships
 * Doctoral Fellowship PPGCosmo. 
   * Funded by the CAPES Agency (Brazil) for four years (2016-2020). Amount awarded: 105.600 R$
 
-Scientific Responsibilities
+Scientific responsibilities
 ======
+* Equity, Diversity and Inclusion
+  * EDI+Decolonisation Champion, UWO (2024-Ongoing
 * Review editor
-  * Frontiers in Astronomy and Space Sciences - Cosmology (2023-ongoing)
+  * Frontiers in Astronomy and Space Sciences - Cosmology (2023-Ongoing)
   * Monthly Notices of the Royal Astronomical Society (2022-Ongoing)
   * European Physical Journal Plus (2021-Ongoing)
-* International collaboration
-  * Member of the International Emerging Action for experts of stochastic effects in cosmology (CNRS, France, 2020-Ongoing)
+* Academy membership
+  * LISA Consortium associate member (2024-Ongoing)
+  * International Society for Quantum Gravity (2024-Ongoing)
+  * International Emerging Action for experts of stochastic effects in cosmology (CNRS, France, 2020-Ongoing)
 
 Skills
 ======
-* Human languages: French (native); English, Portuguese (fluent); Italian, Finnish (intermediate)
-* Computational Languages: C, C++, Python, Julia, Fortran
-* Version Control: GitHub
-* Software: Wolfram Mathematica
-* Cosmological Codes: CLASS, MontePython, GetDist, PyCS3
+* Human languages: French (native); English, Italian, Portuguese (fluent); Finnish (intermediate)
+* Computational Languages: C/C++/C#, Python, Bash, GDScript, Julia, Fortran, XML, JSON
+* Version Control: Git
+* Softwares: LaTeX, Wolfram Mathematica
+* Web: Jupyter, Markdown, HTML, CSS
+* OS: Linux, Mac, Windows
+* Jobs Scheduler: SLURM
+* Code Editors: VSCode, Gedit, Vi
+* Office Productivity Suites: LibreOffice, Google Workspace
+* Cosmological Codes: CLASS, GetDist, MontePython, NumCosmo, PyCS3
 
-Organised events
+Events organisation 
 ======
 * Astrocientistas: Brazilian Meeting for Girls and Women in Astrophysics, Cosmology and Gravitation (2023)
 * Astrocientistas: Brazilian Meeting for Girls and Women in Astrophysics, Cosmology and Gravitation (2021)
+
+Panel moderation
+======
+* Cosmology from Home 2024: Large-scale structure and primordial universe session
 
 Publications
 ======
@@ -77,7 +98,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}

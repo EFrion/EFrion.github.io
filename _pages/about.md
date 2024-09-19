@@ -15,6 +15,13 @@ text-align: justify}
 
 Hello there! I am a theorerical physicist fascinated by the Universe on every scale, trying to understand the origins of large-scale structures and of their magnetic fields, the nature of dark energy, and the role of quantum effects in the very early Universe.
 
+
+I am an editor of the Open Journal of Astrophysics!
+======
+![Editor of OJA, 2024](/images/scholastica.jpg)
+
+2024 has been full of good surprises! I am now part of the editorial board of the Open Journal of Astrophysics! I have been wanting to contribute to open science more actively for some time, and now I finally can. Why is it so important? Well, because OJA is a diamond open-access journal, meaning there is no fees to publish a manuscript, no fees to access it. That changes from wicked publishers bleeding dry research institutions with their astronomical publishing fees, right? 
+
 Start of my second postdoc!
 ======
 

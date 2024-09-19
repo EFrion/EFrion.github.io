@@ -60,8 +60,10 @@ Awards and fellowships
 Scientific responsibilities
 ======
 * Equity, Diversity and Inclusion
-  * EDI+Decolonisation Champion, UWO (2024-Ongoing
-* Review editor
+  * EDI+Decolonisation Champion, UWO (2024-Ongoing)
+* Editor
+  * The Open Journal of Astrophysics (2024-Ongoing)
+* Reviewer
   * Frontiers in Astronomy and Space Sciences - Cosmology (2023-Ongoing)
   * Monthly Notices of the Royal Astronomical Society (2022-Ongoing)
   * European Physical Journal Plus (2021-Ongoing)

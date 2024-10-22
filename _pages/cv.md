@@ -69,6 +69,7 @@ Scientific responsibilities
   * European Physical Journal Plus (2021-Ongoing)
 * Academy membership
   * LISA Consortium associate member (2024-Ongoing)
+  * The Quantum Information Structure of Spacetime (QISS) Consortium member (2024-Ongoing)
   * International Society for Quantum Gravity (2024-Ongoing)
   * International Emerging Action for experts of stochastic effects in cosmology (CNRS, France, 2020-Ongoing)
 

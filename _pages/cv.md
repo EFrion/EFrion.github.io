@@ -65,6 +65,7 @@ Scientific responsibilities
 * Editor
   * The Open Journal of Astrophysics (2024-Ongoing)
 * Reviewer
+  * Classical and Quantum Gravity (2024-Ongoing)
   * Frontiers in Astronomy and Space Sciences - Cosmology (2023-Ongoing)
   * Monthly Notices of the Royal Astronomical Society (2022-Ongoing)
   * European Physical Journal Plus (2021-Ongoing)

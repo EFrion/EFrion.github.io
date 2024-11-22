@@ -60,7 +60,8 @@ Awards and fellowships
 
 Scientific responsibilities
 ======
-* Equity, Diversity and Inclusion
+* Dissemination, Equity, Diversity and Inclusion
+  * Dissemination and Diversity working group, COST Action 23130 BridgeQG (2024-Ongoing)
   * EDI+Decolonisation Champion, UWO (2024-Ongoing)
 * Editor
   * The Open Journal of Astrophysics (2024-Ongoing)
@@ -69,9 +70,10 @@ Scientific responsibilities
   * Frontiers in Astronomy and Space Sciences - Cosmology (2023-Ongoing)
   * Monthly Notices of the Royal Astronomical Society (2022-Ongoing)
   * European Physical Journal Plus (2021-Ongoing)
-* Academy membership
-  * LISA Consortium associate member (2024-Ongoing)
-  * The Quantum Information Structure of Spacetime (QISS) Consortium member (2024-Ongoing)
+* Academic membership
+  * High-energy quantum gravity theory working group, BridgeQG COST Action 23130 (2024-Ongoing)
+  * LISA Consortium (2024-Ongoing)
+  * The Quantum Information Structure of Spacetime (QISS) Consortium (2024-Ongoing)
   * International Society for Quantum Gravity (2024-Ongoing)
   * International Emerging Action for experts of stochastic effects in cosmology (CNRS, France, 2020-Ongoing)
 

@@ -49,7 +49,7 @@ Mentoring
 * Co-supervision
   * Antoine Dierckx De Casterle, Master’s student at ULB, Brussels (Since November 2024)
   * Mateo Pascual, PhD candidate at UWO (Since January 2024)
-  * Marcus Bomfim, PhD candidate at CBPF (Since May 2022)
+  * Marcus Bomfim, PhD candidate at CBPF (May 2022 - September 2024)
 
 Awards and fellowships
 ======

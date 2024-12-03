@@ -1,5 +1,5 @@
 ---
-title: "Talk #22:  Bouncing cosmology from LQC with ekpyrotic and quasi-dust fields"
+title: "Talk #23:  Bouncing cosmology from LQC with ekpyrotic and quasi-dust fields"
 collection: talks
 type: "Talk"
 permalink: /talks/UNB

@@ -1,5 +1,5 @@
 ---
-title: "Talk #11: Bouncing cosmology from Loop Quantum Cosmology with ekpyrotic and matter fields"
+title: "Talk #19: Bouncing cosmology from Loop Quantum Cosmology with ekpyrotic and matter fields"
 collection: talks
 type: "Talk"
 permalink: /talks/loops24

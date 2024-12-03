@@ -1,5 +1,5 @@
 ---
-title: "Talk #10: Primordial magnetic fields in quantum cosmology"
+title: "Talk #17: Primordial magnetic fields in quantum cosmology"
 collection: talks
 type: "Talk"
 permalink: /talks/UWO

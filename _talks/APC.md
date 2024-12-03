@@ -1,5 +1,5 @@
 ---
-title: "Talk #6: Stochastic collapse"
+title: "Talk #7: Stochastic collapse"
 collection: talks
 type: "Talk"
 permalink: /talks/APC

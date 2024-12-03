@@ -1,5 +1,5 @@
 ---
-title: "Talk #12: Primordial magnetic fields in quantum cosmology"
+title: "Talk #20: Primordial magnetic fields in quantum cosmology"
 collection: talks
 type: "Talk"
 permalink: /talks/CAP

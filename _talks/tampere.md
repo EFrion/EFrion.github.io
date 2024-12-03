@@ -1,5 +1,5 @@
 ---
-title: "Talk #9: Testing the Equivalence Principle with Black Hole Shadows and Photon Rings"
+title: "Talk #13: Testing the Equivalence Principle with Black Hole Shadows and Photon Rings"
 collection: talks
 type: "Talk"
 permalink: /talks/tampere

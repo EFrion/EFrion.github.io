@@ -45,9 +45,9 @@ Professional experience
 Mentoring
 ======
 * Supervision
-  * Nika Gashimi, fourth-year undergrad (Since May 2024)
+  * Nika Ghasimi, fourth-year undergrad (Since May 2024)
 * Co-supervision
-  * Antoine Dierckx De Casterle, Master’s student at ULB, Brussels (Since November 2024)
+  * Antoine Dierckx De Casterlé, Master’s student at ULB, Brussels (Since November 2024)
   * Mateo Pascual, PhD candidate at UWO (Since January 2024)
   * Marcus Bomfim, PhD candidate at CBPF (May 2022 - September 2024)
 

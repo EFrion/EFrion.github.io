@@ -105,8 +105,8 @@ var addressPoints = [
     -1.1496461
   ],
   [
-    "Anchieta, Brazil",
-    -26.5350527,
-    -53.3293938
+    "Anchieta, ES, Brazil",
+    -20.8057672,
+    -40.6454564
   ]
 ];

@@ -5,7 +5,7 @@ type: "Poster"
 permalink: /talks/posterVQ
 venue: "Hotel Pontal de Ubu"
 date: 3 March 2017
-location: "Anchieta, Brazil"
+location: "Anchieta, ES, Brazil"
 ---
 
 <style>

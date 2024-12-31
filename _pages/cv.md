@@ -58,9 +58,9 @@ Awards and fellowships
 * Postdoctoral Fellowship PIPD (2024, Declined)
   * Offered by CAPES (Brazil) through a competitive selection process. Duration: 3 years. Amount: R$ 187,200
 * Visiting researcher stipend (2018-2019)
-  * Granted by the University of Portsmouth. Duration: 1 year. Amount awarded:  £ 6.000 
+  * Granted by the University of Portsmouth. Duration: 1 year. Amount awarded:  £ 6,000 
 * Doctoral Fellowship PPGCosmo (2016-2020)
-  * Funded by CAPES through international competition. Duration: 4 years. Amount awarded: R$ 105.600 
+  * Funded by CAPES through international competition. Duration: 4 years. Amount awarded: R$ 105,600 
 
 Scientific responsibilities
 ======

@@ -53,10 +53,14 @@ Mentoring
 
 Awards and fellowships
 ======
-* Visiting researcher stipend
-  * Funded by the University of Portsmouth for one year (2018-2019). Amount awarded:  6.000 £
-* Doctoral Fellowship PPGCosmo. 
-  * Funded by the CAPES Agency (Brazil) for four years (2016-2020). Amount awarded: 105.600 R$
+* Postdoctoral Fellowship Nota 10 for Excellence in Research (2025-Ongoing)
+  * Awarded by FAPERJ (Brazil) through a highly competitive selection process. Duration: 3 years. Amount: R$ 234,000
+* Postdoctoral Fellowship PIPD (2024, Declined)
+  * Offered by CAPES (Brazil) through a competitive selection process. Duration: 3 years. Amount: R$ 187,200
+* Visiting researcher stipend (2018-2019)
+  * Granted by the University of Portsmouth. Duration: 1 year. Amount awarded:  £ 6.000 
+* Doctoral Fellowship PPGCosmo (2016-2020)
+  * Funded by CAPES through international competition. Duration: 4 years. Amount awarded: R$ 105.600 
 
 Scientific responsibilities
 ======

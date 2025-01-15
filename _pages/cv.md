@@ -53,13 +53,15 @@ Mentoring
 
 Awards and fellowships
 ======
-* Postdoctoral Fellowship Nota 10 for Excellence in Research (2025-Ongoing)
+* Grant for organising the conference "As Astrocientistas" (2025)
+  * Awarded by CAPES (Brazil) through a competitive selection process. Amount: R$ 5,000
+* Postdoctoral Fellowship Nota 10 for Excellence in Research (2024)
   * Awarded by FAPERJ (Brazil) through a highly competitive selection process. Duration: 3 years. Amount: R$ 234,000
 * Postdoctoral Fellowship PIPD (2024, Declined)
   * Offered by CAPES (Brazil) through a competitive selection process. Duration: 3 years. Amount: R$ 187,200
-* Visiting researcher stipend (2018-2019)
+* Visiting researcher stipend (2018)
   * Granted by the University of Portsmouth. Duration: 1 year. Amount awarded:  £ 6,000 
-* Doctoral Fellowship PPGCosmo (2016-2020)
+* Doctoral Fellowship PPGCosmo (2016)
   * Funded by CAPES through international competition. Duration: 4 years. Amount awarded: R$ 105,600 
 
 Scientific responsibilities

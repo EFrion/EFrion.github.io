@@ -53,6 +53,8 @@ Mentoring
 
 Awards and fellowships
 ======
+* Seal of Excellence -- Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowship (2025)
+  * Awarded by the European Commission for an excellent research proposal ranked highly but unfunded due to budget limits.
 * Grant for organising the conference "As Astrocientistas" (2025)
   * Awarded by CAPES (Brazil) through a competitive selection process. Amount: R$ 5,000
 * Postdoctoral Fellowship Nota 10 for Excellence in Research (2024)

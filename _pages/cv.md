@@ -53,6 +53,8 @@ Mentoring
 
 Awards and fellowships
 ======
+* Qualification -- Maître de Conférences (Assistant Professor) competition (2025)
+  * Awarded through a selection process. Valid 4 years. First selection step to apply for a permanent position.
 * Seal of Excellence -- Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowship (2025)
   * Awarded by the European Commission for an excellent research proposal ranked highly but unfunded due to budget limits.
 * Grant for organising the conference "As Astrocientistas" (2025)

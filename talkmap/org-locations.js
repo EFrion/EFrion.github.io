@@ -21,8 +21,8 @@ var addressPoints = [
   ],
   [
     "Paris, France",
-    48.8534951,
-    2.3483915
+    48.8588897,
+    2.3200410217200766
   ],
   [
     "Fredericton, Canada",
@@ -65,7 +65,7 @@ var addressPoints = [
     -40.597945
   ],
   [
-    "Vit\u00f3ria, Brazil",
+    "Vit\u00f3ria-ES, Brazil",
     -20.3200917,
     -40.3376682
   ],
@@ -80,9 +80,14 @@ var addressPoints = [
     -0.14405508452768728
   ],
   [
-    "Seoul, Korea",
+    "Seoul, South Korea",
     37.5666791,
     126.9782914
+  ],
+  [
+    "Prague, Czech Republic",
+    50.0874654,
+    14.4212535
   ],
   [
     "Montpellier, France",
@@ -91,13 +96,13 @@ var addressPoints = [
   ],
   [
     "Astana, Kazakhstan",
-    51.1282205,
-    71.4306682
+    51.1159933,
+    71.46770587485393
   ],
   [
     "Warsaw, Poland",
-    52.2319581,
-    21.0067249
+    52.2337172,
+    21.071432235636493
   ],
   [
     "Nottingham, United Kingdom",

@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/KASI
 venue: "Korea Astronomy and Space Science Institute (online)"
 date: 04 August 2023
-location: "Seoul, Korea"
+location: "Seoul, South Korea"
 ---
 
 <style>

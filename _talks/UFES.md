@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/UFES
 venue: "Universidade Federal do Espírito Santo (online)"
 date: 21 August 2020
-location: "Vitória, Brazil"
+location: "Vitória-ES, Brazil"
 ---
 
 <style>

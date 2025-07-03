@@ -84,9 +84,9 @@ analytics:
 author:
   name             : "Emmanuel Frion"
   avatar           : "moi_caline.jpeg"
-  bio              : "Theoretical physicist"
-  location         : "London, Ontario, Canada"
-  employer         : "University of Western Ontario"
+  bio              : "Researcher/Trader"
+  location         : "France (but happy to move!)"
+#  employer         : "University of Western Ontario"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=FjymIDoAAAAJ&hl=fi&oi=sra"
   email            : "efrion@uwo.ca"

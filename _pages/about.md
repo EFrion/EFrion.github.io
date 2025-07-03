@@ -13,7 +13,7 @@ body {
 text-align: justify}
 </style>
 
-Hello there! I am a theorerical physicist fascinated by the Universe on every scale, trying to understand the origins of large-scale structures and of their magnetic fields, the nature of dark energy, and the role of quantum effects in the very early Universe.
+Hello there! I have been a physicist for many years, fascinated by the Universe on every scale, trying to understand the origins of large-scale structures and of their magnetic fields, the nature of dark energy, and the role of quantum effects in the very early Universe. Today, I am shifting towards quantitative research, drawn by the striking similarity of the concepts and tools used to describe both our Universe and financial markets. I am currently looking for a company which would be interested in my skills, hit me up if you know something!
 
 
 I am an editor of the Open Journal of Astrophysics!
